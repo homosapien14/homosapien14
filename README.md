@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @homosapien14
-- 👀 I’m interested in JS/WebDev
+- 👋 Hi, I’m Swapnil
+- 👀 I’m interested in JS/WebDev and competitive programming
 - 🌱 I’m currently learning JS
 
 <!---
