@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Swapnil
-- 👀 I’m interested in JS/WebDev and competitive programming
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Web Dev/Software Development and competitive programming
+- 🌱 I’m currently delving deeply into React.js 
+- 👨‍💻 Hands-on experience in working with Node.js, Express.js, MongoDB, and Postman.
+- 🧠 Proficient in solving Data Structures and Algorithms (DSA) and Competitive Programming (CP) problems.
+- ❤️ Both curious and passionate about delving into the depths of technology to learn more.
 
 <!---
 homosapien14/homosapien14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
